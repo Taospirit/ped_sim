@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/lintao/projects/ped_sim_ws/devel/include/**",
+                "/home/lintao/git_repo/vision_opencv_ws/install/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/gym_ped_sim/actor_plugin/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/gym_ped_sim/data_collection/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/gym_style_gazebo/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/pedsim_ros/3rdparty/libpedsim/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/pedsim_ros/pedsim_sensors/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/pedsim_ros/pedsim_simulator/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/pedsim_ros/pedsim_utils/include/**",
+                "/home/lintao/projects/ped_sim_ws/src/pedsim_ros/pedsim_visualizer/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
