@@ -1,7 +1,0 @@
-{
-    "python.autoComplete.extraPaths": [
-        "/home/lintao/projects/ped_sim_ws/devel/lib/python2.7/dist-packages",
-        "/opt/ros/kinetic/lib/python2.7/dist-packages",
-        "/home/lintao/git_repo/vision_opencv_ws/install/lib/python3/dist-packages"
-    ]
-}
