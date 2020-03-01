@@ -19,7 +19,7 @@ if __name__ == '__main__':
     rate = rospy.Rate(100)
     while not rospy.is_shutdown():
         br.sendTransform((0, 0, 0.0),
-                (0.0, 0.0, 0.0, 1.0),
+                (0.0, 0.0, 0.0, 5.0),
                 rospy.Time.now(),
                 "odom",
                 "default_world")
